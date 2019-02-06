@@ -6,4 +6,4 @@ Setting index tag for query in tendermint block [Add Tags](https://tendermint.co
 
 
 ### Note
-- tendermint hash with sha256(tx)
+- tendermint txHash is sha256(tx)
