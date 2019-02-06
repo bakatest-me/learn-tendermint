@@ -7,3 +7,7 @@ Setting index tag for query in tendermint block [Add Tags](https://tendermint.co
 
 ### Note
 - tendermint txHash is sha256(tx)
+
+### Refs
+- [Mint](https://medium.freecodecamp.org/a-comprehensive-guide-to-coding-a-blockchain-powered-online-community-f938792dbcb4)
+- Tendermint in Nutshell [Medium](https://blog.cosmos.network/tendermint-in-a-nutshell-39d9f7f66ad7) | [PDF](https://github.com/mobfoundry/hackatom/raw/master/tminfo.pdf)
