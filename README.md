@@ -10,6 +10,6 @@ Example1 [Link](https://github.com/6thc/tendermint-cas-demo)
 - tendermint txHash is sha256(tx)
 
 ### Refs
-- [Mint](https://medium.freecodecamp.org/a-comprehensive-guide-to-coding-a-blockchain-powered-online-community-f938792dbcb4)
+- [Mint](https://medium.freecodecamp.org/a-comprehensive-guide-to-coding-a-blockchain-powered-online-community-f938792dbcb4) | 
 [Mint Github](https://github.com/Hashnode/mint) .   
 - Tendermint in Nutshell [Medium](https://blog.cosmos.network/tendermint-in-a-nutshell-39d9f7f66ad7) | [PDF](https://github.com/mobfoundry/hackatom/raw/master/tminfo.pdf)
